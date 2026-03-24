@@ -2,6 +2,7 @@
 
 A responsive static educational website built with **HTML**, **CSS**, and **JavaScript** to present the academy’s services, courses, teachers, and student testimonials through a clean Arabic interface.
 
+> 🌐 Live Demo: https://al-quds-academy.netlify.app/
 ## Overview
 
 This project is designed to showcase the identity and educational offerings of **Al-Quds Educational Academy** in a simple and user-friendly way. It features a fully Arabic layout, organized course sections, teacher profiles, student reviews, and direct WhatsApp contact links.
